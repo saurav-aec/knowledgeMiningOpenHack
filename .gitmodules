@@ -1,0 +1,3 @@
+[submodule "azure-search-postman-samples"]
+	path = azure-search-postman-samples
+	url = https://github.com/Azure-Samples/azure-search-postman-samples.git
